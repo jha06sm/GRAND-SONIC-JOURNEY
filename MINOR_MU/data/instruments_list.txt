@@ -1,0 +1,18 @@
+Guitar
+Tabla
+Piano
+Violin
+Drum
+Dholak
+Flute
+Sitar
+Saxophone
+Harmonium
+Casio
+Keyboard
+Electric Guitar
+Bass Guitar
+Cajon
+Trumpet
+Harp
+Clarinet

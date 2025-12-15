@@ -1,0 +1,16 @@
+streamlit
+torch
+torchaudio
+transformers
+sentence-transformers
+faiss-cpu
+librosa
+soundfile
+pydub
+pretty_midi
+mido
+midi2audio
+numpy
+pandas
+scikit-learn
+huggingface_hub

@@ -1,0 +1,6 @@
+id,title,artist,lang,genre,mood,bpm,key,tags,preview_path
+1,Rainy Lo-Fi,BeatLab,English,lofi,chill,80,C,"lofi,chill,study",assets/previews/preview1.wav
+2,Bhangra Drive,DholDrive,Hindi,bhangra,energetic,110,G,"bhangra,party,energetic",assets/previews/preview2.wav
+3,Indie Sunset,CitySky,English,indie,romantic,95,Am,"indie,romantic,summer",assets/previews/preview3.wav
+4,Night Synth,NightOwl,English,edm,motivational,120,F,"edm,energetic,club",assets/previews/preview4.wav
+5,Sitar Breeze,SitarWave,Hindi,bollywood,meditative,70,C,"bollywood,meditative,calm",assets/previews/preview5.wav
