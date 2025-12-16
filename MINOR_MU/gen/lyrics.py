@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"
+    api_key="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"
 )
 
 def generate_lyrics(
